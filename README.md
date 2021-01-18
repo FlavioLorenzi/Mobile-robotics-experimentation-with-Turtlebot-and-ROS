@@ -6,7 +6,7 @@ Several important topics of Robotics and AI are managed (e.g. odometry check, ob
 [Thesis here](docs/TESI.pdf)
 
 
-[Slide presentation here](docs/slide.pdf)
+[Slide presentation here](docs/slide.pptx)
 
 ## Approach and Docs
 
