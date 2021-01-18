@@ -1,8 +1,10 @@
 # Mobile-robotics-experimentation-with-Turtlebot-and-ROS
-Bachelor's degree subject: Turtlebot (mobile robot) programming with Python and ROS
+Bachelor's degree subject: Turtlebot (mobile robot) programming with Python, Matlab and ROS.
 
-[Thesis here](TESI.pdf).
+Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino, Optitrack system).
 
+[Thesis here](docs/TESI.pdf)
+[Slide presentation here](docs/TESI.pdf)
 
 # Approach and Docs
 
