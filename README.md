@@ -3,9 +3,9 @@ Bachelor's degree (computer engineering) subject: Turtlebot (mobile robot) progr
 
 Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino with infrared sensor, Optitrack system).
 
-You can read the [thesis here](docs/TESI.pdf)
+You can read the thesis [here](docs/TESI.pdf)
 
-And see the [Slide presentation here](docs/slide.pdf)
+and see the slide presentation [here](docs/slide.pdf)
 
 [Click here](video) to see and download videos about it
 
