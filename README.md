@@ -1,11 +1,13 @@
 # Mobile-robotics-experimentation-with-Turtlebot-and-ROS
 Bachelor's degree (computer engineering) subject: Turtlebot (mobile robot) programming with Python, Matlab and ROS.
 
-Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino with infrared sensor, Optitrack system)
+Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino with infrared sensor, Optitrack system).
 
 [Thesis here](docs/TESI.pdf)
 
 [Slide presentation here](docs/slide.pdf)
+
+[Click here to see and download videos about it](video)
 
 ## Approach and Docs
 
@@ -22,6 +24,3 @@ https://docs.google.com/document/u/0/d/18C8zv8XhdE-E_kLMsRFaq39zAZBc1QOZlavY0Fe2
 ![SC2 Image](img/c.png)
 
 
-
-## Testing Bounces with bounce sensors
-![](video/test_bump.gif)
