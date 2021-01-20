@@ -13,6 +13,8 @@ and see the slide presentation [here](docs/slide.pdf)
 
 Here you can find all you need to fine-tune your robot and start with Kobuki Turtlebot (sorry, docs in italian):
 [DOC](https://docs.google.com/document/u/0/d/18C8zv8XhdE-E_kLMsRFaq39zAZBc1QOZlavY0Fe2f0M/mobilebasic)
+
+
 This document is characterized by all the work carried out to initialize the robot: this is the first part of the thesis work. This preliminary section was also developed together with my colleague Ciciolla Michele.
 
 ## Turtlebot in real world with infrared sensor (arduino), intel nuc and ASTRA rgb camera
