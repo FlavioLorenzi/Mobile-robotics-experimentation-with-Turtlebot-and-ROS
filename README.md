@@ -23,3 +23,5 @@ https://docs.google.com/document/u/0/d/18C8zv8XhdE-E_kLMsRFaq39zAZBc1QOZlavY0Fe2
 
 
 
+## Testing Bounces with bounce sensors
+![](video/test_bump.gif)
