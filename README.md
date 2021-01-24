@@ -1,7 +1,7 @@
 # Mobile-robotics-experimentation-with-Turtlebot-and-ROS
 Bachelor's degree (computer engineering) subject: Turtlebot (mobile robot) programming with Python, Matlab and ROS.
 
-Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino with infrared sensor, Optitrack system).
+Several important topics of Robotics and AI are managed (e.g. odometry check, obstacle detection and avoidance, SLAM) and several tools are used for (e.g. Rviz, Gazebo, Arduino with ultrasound sensor, Optitrack system).
 
 You can read the thesis [here](docs/TESI.pdf)
 
@@ -17,7 +17,7 @@ Here you can find all you need to fine-tune your robot and start with Kobuki Tur
 
 This document is characterized by all the work carried out to initialize the robot: this is the first part of the thesis work. This preliminary section was also developed together with my colleague Ciciolla Michele.
 
-## Turtlebot in real world with infrared sensor (arduino), intel nuc and ASTRA rgb camera
+## Turtlebot in real world with ultrasound sensor (arduino), intel nuc and ASTRA RGB IR camera
 ![SC2 Image](img/a.png)
 
 ## Turtlebot in Gazebo environment
